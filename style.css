@@ -1,0 +1,43 @@
+
+body {
+	background-image: url(../fists.jpg);
+	background-size: 1064px;
+}
+h1 {
+	color:red;
+	font-family: "Marker";
+}
+h2 {
+	color:red;
+	text-align: center;
+}
+button {
+	color:yellow;
+	background-size: 55px;
+}
+a:hover {
+	color: red;
+}
+.links {
+	float: left;
+}
+
+img {
+	float: right;
+	padding: 6px
+}
+img:hover {
+	width:750px;
+	height:auto;
+}
+#cele {
+	width: 437px;
+	height: auto;
+}
+p {
+	font-size: 20px;
+	color:white;
+}
+.text {
+	background-color: black;
+}
