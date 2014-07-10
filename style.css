@@ -10,7 +10,9 @@ h1 {
 h2 {
 	color:red;
 	text-align: center;
+	font-size: 50px;
 }
+
 button {
 	color:yellow;
 	background-size: 55px;
@@ -26,13 +28,16 @@ img {
 	float: right;
 	padding: 6px
 }
+
+
+img {
+	width: 437px;
+	height: auto;
+}
+
 img:hover {
 	width:750px;
 	height:auto;
-}
-#cele {
-	width: 437px;
-	height: auto;
 }
 p {
 	font-size: 20px;
